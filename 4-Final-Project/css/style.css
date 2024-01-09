@@ -1,0 +1,111 @@
+#header-style {
+    padding: 10px;
+    background-color: #2f4f96;
+    width: auto;
+}
+
+#text-header{
+    color: white;
+    margin-left: 32px;
+    font-size: 14px;
+}
+
+#text-header-selected{
+    color: yellow;
+    margin-left: 32px;
+    font-size: 14px;
+}
+
+#text-head {
+    text-align: center;
+    font-size: 47px;
+}
+
+.table-style {
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+.img-prin {
+    width: 100%;
+    height: 500px;
+}
+
+.img-tam {
+    width: 299px;
+    height: 200px;
+}
+
+.text-img {
+    text-align: center;
+}
+
+#back-col {
+    background-color: #f2f6ff;
+}
+
+#nav-style {
+    padding: 29px;
+    background-color: black;
+    width: auto;
+}
+
+.p-edit {
+    line-height: 1.15;
+    margin-right: 11%;
+    margin-left: 11%;
+    font-size: 20px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+#text-head {
+    color: black;
+    text-align: center;
+    font-size: 29px;
+}
+
+#form-item {
+    width: 500px;
+    border: 1px solid #ccc;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#input-line {
+    padding-top: 70px;
+    padding-bottom: 41px;
+    padding-left: 79px;
+    padding-right: 79px;
+}
+
+.bar {
+    font-size: 20px;
+    padding-bottom: 11px;
+    margin-bottom: 34px;
+    border: 0;
+    border-bottom: 1px solid #ccc;
+    width: 100%;
+}
+
+#check-terms{
+    color: white;
+    margin-left: 32px;
+    font-size: 14px;
+}
+
+#text-checkbox {
+    color: black;
+    font-size: 14px;
+}
+
+.sub-button {
+    background-color: darkblue;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 20px;
+    color: white;
+    border: none;
+}
